@@ -1,0 +1,2 @@
+rootProject.name = "EXAMEN_T3_POKEMONS"
+include ':app'
